@@ -7,7 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AccordionModule } from 'ngx-bootstrap/accordion';
 
-import { ProfileCardModule } from 'profile-card';
+import { ProfileCardModule } from 'bachina-profile-card';
 
 @NgModule({
   declarations: [
